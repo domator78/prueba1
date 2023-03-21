@@ -20,3 +20,6 @@ d
 sadasd
 
 comando nuevo y agregacion de las tablas nuevas 
+
+
+mas cambios y modificaciones
